@@ -1,4 +1,3 @@
-👋 Hi, I’m Anshu Tripathi
 
 # 👋 Hi, I’m Anshu Tripathi
 
