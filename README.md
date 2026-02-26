@@ -35,7 +35,7 @@ Pandas | NumPy | Scikit-Learn | XGBoost | SHAP | Power BI
 
 ## 📫 Connect With Me
 
-📧 Email: anshu.tripathi@utsa.edu  
+📧 Email: anshu.tripathi@my.utsa.edu  
 💼 LinkedIn: https://www.linkedin.com/in/anshutripathi119/  
 
 ---
