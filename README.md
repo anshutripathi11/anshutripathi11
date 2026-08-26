@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m Anshu Tripathi
+<h1 align="center"> 👋 Hi, I’m Anshu Tripathi</h1>
 
 🎓 MS Computer Science (Data Science) @ University of Texas at San Antonio  
 💻 DevOps Engineer Intern @ Swivel (an SWBC Company)  
@@ -33,14 +33,39 @@ Pandas | NumPy | Scikit-Learn | XGBoost | SHAP | Power BI
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/anshutripathi119/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anshu.tripathi@my.utsa.edu">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+💬 Always happy to connect about **Platform Engineering, Cloud & DevOps, Distributed Systems, and AI/ML**.
+
+<!-- ### Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/anshutripathi119/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:anshu.tripathi@my.utsa.edu ">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 📧 Email: anshu.tripathi@my.utsa.edu  
 💼 LinkedIn: https://www.linkedin.com/in/anshutripathi119/  
 
----
 
 ⭐ Always open to research collaborations, internships, and other discussions.
+--->
+---
+
+
 
 <!---## 📂 Featured Projects
 
