@@ -1,38 +1,40 @@
 
 <h1 align="center"> 👋 Hi, I’m Anshu Tripathi</h1>
 
-🎓 MS Computer Science (Data Science) @ University of Texas at San Antonio  
-💻 DevOps Engineer Intern @ Swivel (an SWBC Company)  
+<h3 align="center"> Platform Engineer | Cloud & DevOps | Software Engineering | AI/ML</h3> 
 
 ---
+## 👩‍💻 About Me
 
-## 🧠 About Me
-
-I am a Graduate Student pursuing an MS in Computer Science with a specialization in Data Science.
-
-Currently working on:
-- 🔥 Comparative Analysis of Distributed Deep Learning Frameworks (DDP, Horovod, AMP)
-- ⚡ CUDA-based Parallel Algorithms
-- ☁️ Cloud & DevOps Automation (AWS, Azure, CI/CD)
-
+- 💼 Platform Engineer @ Swivel (an SWBC Company)
+- 🎓 M.S. Computer Science (Data Science) | UTSA  
+- ⚙️ Former DevOps Engineer Intern @ Swivel  
+- 💻 Former Senior Software Engineer @ Accenture
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Languages
-Python | C++ | C | Java | SQL
 
-### ⚡ Parallel & ML
-CUDA | PyTorch DDP | Horovod | OpenMP | AMP | TensorFlow
+`Python` `Java` `C++` `C#` `SQL` `JavaScript` `TypeScript` `Bash`
 
-### ☁️ Cloud & DevOps
-AWS | Azure | Docker | GitHub Actions | CI/CD
+### ☁️ Cloud & Platform
 
-### 📊 Data & Tools
-Pandas | NumPy | Scikit-Learn | XGBoost | SHAP | Power BI
+`AWS` `Azure` `Docker` `Kubernetes` `Linux` `GitHub` `CI/CD`
+
+### ⚙️ DevOps & Automation
+
+`GitHub Actions` `Azure DevOps` `Jenkins` `Jira` `Atlassian Forge` `Shell Scripting`
+
+### 🤖 AI / ML & Data
+
+`PyTorch` `TensorFlow` `Scikit-Learn` `XGBoost` `SHAP` `Pandas` `NumPy`
+
+### 🗄️ Databases
+
+`Oracle Database` `MySQL` `DynamoDB` `SQL Server`
 
 ---
-
 ## 📫 Let's Connect
 
 <p align="left">
@@ -44,7 +46,22 @@ Pandas | NumPy | Scikit-Learn | XGBoost | SHAP | Power BI
   </a>
 </p>
 
-💬 Always happy to connect about **Platform Engineering, Cloud & DevOps, Distributed Systems, and AI/ML**.
+💬 Always happy to connect and exchange ideas around **Platform Engineering, Cloud & DevOps, Software Engineering, and AI/ML**.
+
+
+
+
+<!--
+## 👩‍💻 About Me
+
+- 💼 Currently working as a **Platform Engineer @ Swivel (an SWBC Company)**
+- 🎓 Graduated with an **M.S. in Computer Science (Data Science) from UTSA**
+- ⚙️ Previously worked as a **DevOps Engineer Intern @ Swivel (an SWBC Company)**
+- 💻 Former **Senior Software Engineer @ Accenture**
+- 🔬 Experience in **Cloud, DevOps, Data Science, Machine Learning & HPC**
+- 🚀 Interested in **Platform Engineering, Distributed Systems, Cloud & AI/ML**
+
+--->
 
 <!-- ### Connect With Me
 
